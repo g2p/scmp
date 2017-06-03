@@ -1,0 +1,10 @@
+[package]
+name = "scmp"
+version = "0.1.0"
+authors = ["Gabriel de Perthuis <g2p.code@gmail.com>"]
+build = "build.rs"
+keywords = ["linux", "seccomp"]
+
+[build-dependencies]
+bindgen = "0"
+
