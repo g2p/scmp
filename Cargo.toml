@@ -5,6 +5,7 @@ authors = ["Gabriel de Perthuis <g2p.code@gmail.com>"]
 build = "build.rs"
 keywords = ["linux", "seccomp"]
 license = "ISC"
+description = "Bindings to libseccomp"
 
 [build-dependencies]
 bindgen = "0"
