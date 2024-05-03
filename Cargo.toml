@@ -8,5 +8,5 @@ license = "ISC"
 description = "Bindings to libseccomp"
 
 [build-dependencies]
-bindgen = ">= 0.26"
+bindgen = ">= 0.69.4"
 
