@@ -6,6 +6,7 @@ build = "build.rs"
 keywords = ["linux", "seccomp"]
 license = "ISC"
 description = "Bindings to libseccomp"
+repository = "https://github.com/g2p/scmp"
 
 [build-dependencies]
 bindgen = ">= 0.69.4"
